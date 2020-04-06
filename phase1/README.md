@@ -38,6 +38,7 @@ Marissa: 21-yr old, Junior in college. Very quiet and reserved, and an introvert
 <h1> Scenarios: </h1>
 
 -Scenario 1: Jeff is trying to meet fellow students that enjoy rock climbing and needs a place to go to find people that go to his college that share a similar interest. Jeff is worried that some people might be older non-college people and doesn’t know how to check.
+
 -Scenario 2: Marissa has to go home for a Doctor’s appointment this weekend and can no longer attend her concert downtown. She wants to find a local, trustworthy college student to sell her ticket to, and needs a place where she can ensure that this happens.
 
 <h9> Supplementary Materials: </h9>
