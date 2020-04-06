@@ -41,7 +41,7 @@ Marissa: 21-yr old, Junior in college. Very quiet and reserved, and an introvert
 
 -Scenario 2: Marissa has to go home for a Doctor’s appointment this weekend and can no longer attend her concert downtown. She wants to find a local, trustworthy college student to sell her ticket to, and needs a place where she can ensure that this happens.
 
-<h9> Supplementary Materials: </h9>
+<h1> Supplementary Materials: </h1>
 
 Here is the link to the survey we used to gather our mock data:
 https://docs.google.com/forms/d/e/1FAIpQLSeAnOXKPM5zzfxH3gJllnz2occzenjXBz5rjA3LBtfkgnMWlw/viewform
