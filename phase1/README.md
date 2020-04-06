@@ -31,7 +31,8 @@ We are unable to ask follow up questions for our fellow students, as the deadlin
 
 <h1> Personas: </h1>
 
-Jeff: 18-yr old, just left for college to get his digital media degree. Although he is a very outgoing and social person, he does not know anybody in the area, not even the other people in his dorms yet. He has both Snapchat and Instagram accounts. 
+Jeff: 18-yr old, just left for college to get his digital media degree. Although he is a very outgoing and social person, he does not know anybody in the area, not even the other people in his dorms yet. He has both Snapchat and Instagram accounts.
+
 Marissa: 21-yr old, Junior in college. Very quiet and reserved, and an introvert. Has a very small group of friends, and does not like parties. Listens to electronic music, and has a pet cat named Lucas. 
 
 <h1> Scenarios: </h1>
