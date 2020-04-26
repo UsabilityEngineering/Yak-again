@@ -8,10 +8,21 @@
 **-error tolerant:** The consequences of the technology not working when it is supposed to. A space station must have next to no error tolerance, while a bookshelf breaking has pretty high error tolerance. 
 
 
-![Alt text](/phase2/screencap.PNG)
+![Alt text](/phase2/Frame1.png)
 
 
-![Alt text](/journal2/myID.PNG)
+![Alt text](/phase2/Frame2.png)
 
 
-![Alt text](/journal2/computeraudio.PNG)
+![Alt text](/phase2/frame3.png)
+
+
+![Alt text](/phase2/frame3.png)
+
+![Alt text](/phase2/Frame4.png)
+
+![Alt text](/phase2/frame5.png)
+
+![Alt text](/phase2/Screen6.png)
+
+![Alt text](/phase2/Screen7.png)
