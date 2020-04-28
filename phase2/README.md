@@ -29,3 +29,4 @@
 ![Alt text](/phase2/Frame7.png)
 
   Lastly the settings page. If users do not feel comfortable with us using their school email for their account, then they can change their default college email to a custom email. They can also change the theme from dark and light.
+ 
