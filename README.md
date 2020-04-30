@@ -4,12 +4,15 @@ Satisfying the need for an anonymous, proximity-based message board with college
 
 ## Team Members
 
-* **Bret McNamee** - Caveats, scenarios, personas, supplementary materials 
-* **Full Name 2** - Title, methods, findings, conclusions, personas
+* **Bret McNamee**  
+* **Jacob Tessman**
 
 ## Phase 1: User Inquiry and Inspection
 
 We gathered data on our users (fellow classmates) via a survey. For our solution to this problem to work, we needed to find out how comfortable our users are in giving their college credentials for verification in an app. 
+
+* **Bret McNamee** - Caveats, scenarios, personas, supplementary materials 
+* **Jacob Tessman** - Title, methods, findings, conclusions, personas
 
 [Full phase 1 report](phase1/README.md)
 
