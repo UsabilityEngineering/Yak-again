@@ -10,7 +10,7 @@
 
   Account creation is a one-time thing, and the user will be able to log in from this point on. It works similar to other apps where you log in once, and you're good to go on that device. 
 
-![Alt text](/phase2/Frame3.PNG)
+![Alt text](/Yak-again/phase2/Frame3.PNG)
 
   The main feed page works almost exactly like the original Yik-Yak's feed page does, where when you use to be able to only see other posts in a certain radius, now you are able to see posts in a certain college. The user may filter the posts by newest or "hot" (high ratings). They can upvote or downvote all of the posts, and a new feature that we thought of is hashtags. Users can add hashtags to their posts and filter their feeds by that hashtag if they desire. When posting, users can decide to connect their handle to their posts, or if they want their posts to be anonymous. 
 
