@@ -15,7 +15,9 @@ We gathered data on our users (fellow classmates) via a survey. For our solution
 
 ## Phase 2: Interaction Design
 
-*Coming soon*
+We have created our wireframe and given a walkthrough and short description of the purpose of each page.
+
+[Full phase 2 report](phase2/README.md)
 
 ## Phase 3: Usability Evaluation
 
