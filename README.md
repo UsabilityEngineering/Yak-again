@@ -29,5 +29,3 @@ We have executed a protocol usability test for our prototype, and performed it w
 [Full phase 3 report](phase3/README.md)
 
 [Prototype](phase3/Protocol.pdf)
-
-*Coming Soon*
