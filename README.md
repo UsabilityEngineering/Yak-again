@@ -24,4 +24,10 @@ We have created our wireframe and given a walkthrough and short description of t
 
 ## Phase 3: Usability Evaluation
 
+We have executed a protocol usability test for our prototype, and performed it with our professor. 
+
+[Full phase 3 report](phase3/README.md)
+
+[Prototype](phase3/Protocol.pdf)
+
 *Coming Soon*
