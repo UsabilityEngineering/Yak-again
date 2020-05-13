@@ -66,5 +66,5 @@ Anything that the user thought might have not been necessary or anything along t
 
 
 
-<strong>The overall approach to our walkthrough is to allow the user a lot of leeway and freedom when testing the app. We want them to explore it at their own pace and talk aloud as they browse each page. We limited the specific tasks we want them to perform to primarily the new features that Yak-Again has that Yik-Yak did not. Besides those few features the user explores in their own order which allows us to see what pages are the most intriguing.</strong>
+<strong>The overall approach to our formative walkthrough is to allow the user a lot of leeway and freedom when testing the app. We want them to explore it at their own pace and talk aloud as they browse each page. We limited the specific tasks we want them to perform to primarily the new features that Yak-Again has that Yik-Yak did not. Besides those few features the user explores in their own order which allows us to see what pages are the most intriguing.</strong>
 
