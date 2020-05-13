@@ -50,6 +50,8 @@ What are the kinds of problems that they solve for you? <br/>
 
 
 Summary/Conclusion Questions:
+<strong> These are all good to obtain the user's opinions, to obtain new ideas. </strong> 
+
 
 What are the features that stick out the most to you/intrigued you the most? 
 Let’s us know what the user enjoyed the most about the app and what was the attention grabber in their opinion
