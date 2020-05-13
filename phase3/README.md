@@ -49,7 +49,7 @@ What are the kinds of problems that they solve for you? <br/>
 
 
 
-Summary/Conclusion Questions:
+Summary/Conclusion Questions: <br/>
 <strong> These are all good to obtain the user's opinions, to obtain new ideas. </strong> 
 
 
