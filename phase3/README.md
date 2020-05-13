@@ -10,8 +10,8 @@ Test Subject:   Kevin Buffardi
 
 Thank you for consent and your participation in this formative study for our app, Yak-Again. For the next 20 to 30 minutes, we are going to be observing you as you navigate the app and attempt to solve the problems that we present you with, as well as obtain your opinion on certain aspects of the app. Please keep in mind that we are testing the usability of our app, and not you. 
 
-Before we begin, what are the types of social media that you use in your life? Have you used Yik-Yak before? 
-We’re hoping to get a baseline for our user, to see if they have any experience with the format of social media, and the specific format that Yik-Yak used as well, since it is slightly different from the normal social media interactions.
+Before we begin, what are the types of social media that you use in your life? Have you used Yik-Yak before? </br>
+***We’re hoping to get a baseline for our user, to see if they have any experience with the format of social media, and the specific format that Yik-Yak used as well, since it is slightly different from the normal social media interactions. ***
 
 
 What are the kinds of problems that they solve for you? 
