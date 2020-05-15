@@ -1,6 +1,6 @@
 # Yak-Again
 
-Satisfying the need for an anonymous, proximity-based message board with college credential verification.
+Satisfying the need for an anonymous, proximity-based message board mobile application with college credential verification.
 
 ## Team Members
 
