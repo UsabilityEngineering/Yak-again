@@ -4,7 +4,7 @@ Satisfying the need for an anonymous, proximity-based message board mobile appli
 
 ## Team Members
 
-* **Bret McNamee**  
+* **Bret McNamee**  [Journal](https://usabilityengineering.github.io/uxportfolio-Bret-McNamee/)
 * **Jacob Tessman:**  [Journal](https://usabilityengineering.github.io/uxportfolio-jtessman/)
 
 ## Phase 1: User Inquiry and Inspection
