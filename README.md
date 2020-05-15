@@ -5,7 +5,7 @@ Satisfying the need for an anonymous, proximity-based message board with college
 ## Team Members
 
 * **Bret McNamee**  
-* **Jacob Tessman**
+* **Jacob Tessman:**  [Journal](https://usabilityengineering.github.io/uxportfolio-jtessman/)
 
 ## Phase 1: User Inquiry and Inspection
 
