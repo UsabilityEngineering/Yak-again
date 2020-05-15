@@ -30,4 +30,4 @@ We have executed a protocol usability test for our prototype, and performed it w
 
 [Protocol](phase3/Protocol.pdf)
 
-[Completed Prototype](https://www.figma.com/proto/gdAm451S3QaKM9ana8Cdhc/Yak-Again-Wireframe?node-id=1%3A74&scaling=min-zoom)
+[Completed Prototype (changes since phase 2)](https://www.figma.com/proto/gdAm451S3QaKM9ana8Cdhc/Yak-Again-Wireframe?node-id=1%3A74&scaling=min-zoom)
